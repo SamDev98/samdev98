@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samdev98" alt="samdev98" /> </p>
 
-- 🌱 I’m currently exploring **the domain of Cloud Computing, ML, Big Data and learning new technologies!**
+- 🌱 I’m currently exploring **the domains of Cloud Computing, ML, Big Data and learning new technologies!**
 
 - 👯 I’m looking to collaborate on [Intrusion Detection System using ML and Big Data](https://github.com/SamDev98/ml-ids)
 
-- 👨‍💻 All of my mini projects are available at [https://github.com/SamDev98/java_projects](https://github.com/SamDev98/java_projects) and [https://github.com/SamDev98/python_projects](https://github.com/SamDev98/python_projects)
+- 👨‍💻 All of my mini projects are available at [https://github.com/SamDev98/java_projects](https://github.com/SamDev98/java-projects) and [https://github.com/SamDev98/python_projects](https://github.com/SamDev98/python-projects)
 
 - 💬 Ask me about **Java, Python, AWS, GCP, Hadoop**
 
