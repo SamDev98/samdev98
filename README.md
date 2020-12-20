@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samdev98" alt="samdev98" /> </p>
 
-- 🌱 I’m currently exploring **the domain of Big Data and learning new technologies!**
+- 🌱 I’m currently exploring **the domain of Cloud Computing, ML, Big Data and learning new technologies!**
 
 - 👯 I’m looking to collaborate on [Intrusion Detection System using ML and Big Data](https://github.com/SamDev98/ml-ids)
 
-- 👨‍💻 All of my mini projects are available at [https://github.com/SamDev98/mini_projects](https://github.com/SamDev98/mini_projects)
+- 👨‍💻 All of my mini projects are available at [https://github.com/SamDev98/java_projects](https://github.com/SamDev98/java_projects) and [https://github.com/SamDev98/python_projects](https://github.com/SamDev98/python_projects)
 
-- 💬 Ask me about **java, python, hadoop framework**
+- 💬 Ask me about **Java, Python, AWS, GCP, Hadoop**
 
 - 📫 How to reach me **rakhesambhav@gmail.com**
 <br/><br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samdev98&layout=compact&hide=html" alt="samdev98" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samdev98&layout=compact&hide=html" alt="samdev98" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samdev98&show_icons=true" alt="samdev98" /></p>
 <p align="center">
 <a href="https://dev.to/@samdev98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@samdev98" height="30" width="30" /></a>
