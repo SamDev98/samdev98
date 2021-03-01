@@ -14,10 +14,6 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=samdev98&theme=radical&repo=password-manager-py"/>
     </a>
 <br>
-    <a href="" alt="Most used languages">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samdev98&theme=radical&exclude_repo=python-projects&layout=compact"/>
-    </a>
-<br>
     <a href="" alt="Git stats">
         <img src="https://github-readme-stats.vercel.app/api?username=samdev98&count_private=true&show_icons=true&theme=radical"/>
     </a>
