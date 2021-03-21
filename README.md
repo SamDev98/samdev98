@@ -14,11 +14,11 @@
 
 </details>
 
-### Introduction:
+## Introduction:
 
-### Skills:
+## Skills:
 
-### Projects:
+## Projects:
 
 <details>
   <summary><strong>Click to expand</strong></summary>
@@ -26,7 +26,7 @@
   [![Password Manager](https://github-readme-stats.vercel.app/api/pin/?username=samdev98&repo=password-manager-py&show_icons=true&theme=radical)](https://github.com/samdev98/password-manager-py)
 </details>
 
-### My Github Stats:
+## My Github Stats:
 
 <p align="center">
     <a href="" alt="Github Stats">
