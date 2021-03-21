@@ -107,8 +107,8 @@ pprint(samdev98_info)
 </p>
 
 <p align="center">
-    <a href="" alt="Github Trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=samdev98&theme=monokai&no-bg=true&row=1&column=5"/>
+    <a href="" alt="Github Streaks">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=samdev98&theme=dark"/>
     </a>
 </p>
 
