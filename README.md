@@ -23,7 +23,7 @@
 <details>
   <summary><strong>Click to expand</strong></summary>
   
-  [![Password Manager](https://github-readme-stats.vercel.app/api/pin/?username=samdev98&repo=password-manager-py&show_icons=true&theme=radical)](https://github.com/samdev98/password-manager-py)
+[![Password Manager](https://github-readme-stats.vercel.app/api/pin/?username=samdev98&repo=password-manager-py&show_icons=true&theme=radical)](https://github.com/samdev98/password-manager-py)
 </details>
 
 ## My Github Stats:
@@ -31,12 +31,6 @@
 <p align="center">
     <a href="" alt="Github Stats">
         <img src="https://github-readme-stats.vercel.app/api?username=samdev98&count_private=true&show_icons=true&theme=radical"/>
-    </a>
-</p>
-
-<p align="center">
-    <a href="" alt="Weekly Stats">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=samdev98&theme=radical"/>
     </a>
 </p>
 
