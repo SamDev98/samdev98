@@ -1,6 +1,6 @@
 <p align="center">
     <a href="" alt="Git Banner">
-        <img src="res/images/git_banner.png"/>
+        <img src="res/images/git_banner_v1.png"/>
     </a>
 <br>
     <a href="" alt="Git Stats">
