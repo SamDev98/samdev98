@@ -20,18 +20,21 @@
     <img src="https://github.com/samdev98/samdev98/actions/workflows/waka.yml/badge.svg"/>
 </a>
 </p>
-
+<br>
+<hr>
 <br>
 <p align="center">
     <a href="https://github.com/samdev98" alt="Git Banner">
         <img src="res/gifs/git_banner-v1.gif" height="350" width="650"/>
     </a>
 </p>
-
+<br>
+<br>
+<hr>
 <details>
   <summary>
 
-## Table Of Contents ⬇
+# Table Of Contents 👇
 
 </summary>
 
@@ -44,7 +47,7 @@
 
 # Introduction:
 
-<h2> नमस्ते (Namaste) 🙏🏻 I'm Sambhav Rakhe. A Software Developer from India. 🇮🇳 </h2> <br>
+<h2> नमस्ते, (Namaste) 🙏🏻 I'm Sambhav Rakhe. A Software Developer from India. 🇮🇳 </h2> <br>
 <p>
 
 I have a **Bachelor's degree** 🎓 in **Computer Engineering** 🤓. <br>
