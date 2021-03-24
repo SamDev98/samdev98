@@ -37,16 +37,16 @@
 
 <h3> नमस्ते (Namaste) 🙏🏻 I'm Sambhav Rakhe. A Software Developer from India. 🇮🇳 </h3> <br>
 <p>
-I have a Bachelor's degree 🎓 in Computer Engineering 🤓. <br>
+I have a **Bachelor's degree** 🎓 in **Computer Engineering** 🤓. <br>
 I've been passionate about coding 💻 since I was 12 👦. The first language i ever wrote code in was C. <br>
-Besides programming, I also love to cook 🍽 and practise yoga 🧘 <br>
+Besides programming, I also love to **cook** 🍽 and practise **yoga** 🧘 <br>
 I currently strive to automate all my tasks using Python 🐍 <br>
-I am always open to collaborate 👻 with people on any projects, I pick up technologies that I don't already know, rather quickly. <br>
+I am **always open to collaborate** 👻 with people on any projects, I pick up technologies that I don't already know, rather quickly. <br>
 </p>
 
-I like connecting with new people, add me on [linkedin](https://www.linkedin.com/in/sambhavrakhe).
+I **like connecting with new people**, add me on [linkedin](https://www.linkedin.com/in/sambhavrakhe).
 <br>
-Feel free to contact me through my [email](mailto:rakhesambhav@gmail.com) or my
+Feel free to **contact me** through my [email](mailto:rakhesambhav@gmail.com) or my
 Twitter [@samdev98](https://twitter.com/samdev98). 🙂
 
 ## Skills:
