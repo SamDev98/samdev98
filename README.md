@@ -24,7 +24,7 @@
 <br>
 <p align="center">
     <a href="https://github.com/samdev98" alt="Git Banner">
-        <img src="res/images/git_banner_v1.png" height="350" width="650"/>
+        <img src="res/gifs/git_banner-v1.gif" height="350" width="650"/>
     </a>
 </p>
 
