@@ -19,7 +19,7 @@
 <br>
 <p align="center">
     <a href="https://github.com/samdev98" alt="Git Banner">
-        <img src="res/images/git_banner_v1.png"/>
+        <img src="res/images/git_banner_v1.png" height="300" width="400"/>
     </a>
 </p>
 
