@@ -38,9 +38,9 @@
 
 </details>
 
-## Introduction:
+# Introduction:
 
-<h3> नमस्ते (Namaste) 🙏🏻 I'm Sambhav Rakhe. A Software Developer from India. 🇮🇳 </h3> <br>
+<h2> नमस्ते (Namaste) 🙏🏻 I'm Sambhav Rakhe. A Software Developer from India. 🇮🇳 </h2> <br>
 <p>
 
 I have a **Bachelor's degree** 🎓 in **Computer Engineering** 🤓. <br>
@@ -56,7 +56,7 @@ I **like connecting with new people**, add me on [linkedin](https://www.linkedin
 Feel free to **contact me** through my [email](mailto:rakhesambhav@gmail.com) or my
 Twitter [@samdev98](https://twitter.com/samdev98). 🙂
 
-## Skills:
+# Skills:
 
 Languages and Technologies:
 <pre>
@@ -97,7 +97,7 @@ samdev98_info: dict = {
 pprint(samdev98_info)
 ```
 
-## Projects:
+# Projects:
 
 <details>
   <summary><strong>Click to expand</strong></summary>
@@ -105,7 +105,7 @@ pprint(samdev98_info)
 [![Password Manager](https://github-readme-stats.vercel.app/api/pin/?username=samdev98&repo=password-manager-py&show_icons=true&theme=radical)](https://github.com/samdev98/password-manager-py)
 </details>
 
-## My Github Stats:
+# My Github Stats:
 
 <p align="center">
     <a href="" alt="Github Stats">
