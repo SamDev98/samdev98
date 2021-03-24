@@ -29,7 +29,7 @@
 </p>
 
 <details>
-  <summary style="font-size:25px"><strong>Table Of Contents ⬇</strong></summary>
+  <summary><strong>Table Of Contents ⬇</strong></summary>
 
 * [Introduction](#introduction)
 * [Skills](#skills)
@@ -118,54 +118,6 @@ pprint(samdev98_info)
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-761124%20lines%20of%20code-blue)
-
-**🐱 My Github Data**
-
-> 🏆 336 Contributions in the Year 2021
->
-> 📦 265.0 kB Used in Github's Storage
->
-> 🚫 Not Opted to Hire
->
-> 📜 7 Public Repositories
->
-> 🔑 6 Private Repositories
->
-**I'm a Night 🦉**
-
-```text
-🌞 Morning    4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-🌆 Daytime    8 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-🌃 Evening    28 commits     ████████████████░░░░░░░░░   63.64% 
-🌙 Night      4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
-
-```
-
-📅 **I'm Most Productive on Sunday**
-
-```text
-Monday       8 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Tuesday      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
-Wednesday    3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
-Thursday     3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
-Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     7 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
-Sunday       21 commits     ████████████░░░░░░░░░░░░░   47.73%
-
-```
-
-📊 **This Week I Spent My Time On**
-
-```text
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
 
 <!--END_SECTION:waka-->
