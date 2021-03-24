@@ -29,8 +29,8 @@
     </a>
 </p>
 <br>
-<br>
 <hr>
+<br>
 <details>
   <summary>
 
