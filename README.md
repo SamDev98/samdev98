@@ -136,7 +136,7 @@ pprint(samdev98_info)
 
 > 🏆 353 Contributions in the Year 2021
  > 
-> 📦 265.3 kB Used in Github's Storage 
+> 📦 265.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
