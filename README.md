@@ -1,42 +1,29 @@
 <p align="center">
 <a href="mailto:rakhesambhav@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/sambhavrakhe" alt="Linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Sambhav Rakhe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://www.twitter.com/samdev98" alt="Twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SamDev98-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
-<a href="https://discord.gg/NRZb5NVX" alt="Discord">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+<a href="https://discord.gg/7sSs4AC3ey" alt="Discord">
+    <img src="https://img.shields.io/badge/CODEHUB-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 <br>
 <a href="https://ko-fi.com/samdev98" alt="Ko-Fi">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Support with Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
 </a>
 <br>
 <a href="https://github.com/samdev98" alt="Waka Readme Status">
     <img src="https://github.com/samdev98/samdev98/actions/workflows/waka.yml/badge.svg"/>
 </a>
 </p>
-<br>
-<hr>
-<br>
-<p align="center">
-    <a href="https://github.com/samdev98" alt="Git Banner">
-        <img src="res/gifs/git_banner-v1.gif" height="350" width="650"/>
-    </a>
-</p>
-<br>
 <hr>
 <br>
 <details>
-  <summary>
-
-# Table Of Contents 👇
-
-</summary>
+  <summary>Table Of Contents 👇</summary>
 
 * [Introduction](#introduction)
 * [Skills](#skills)
