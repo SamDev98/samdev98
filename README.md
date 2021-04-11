@@ -97,12 +97,15 @@ pprint(samdev98_info)
 # Projects:
 
 <details>
-  <summary><strong>Click to expand</strong></summary>
+  <summary><strong>Click to view all my projects</strong></summary>
 
 [![Password Manager](https://github-readme-stats.vercel.app/api/pin/?username=samdev98&repo=password-manager-py&show_icons=true&theme=radical)](https://github.com/samdev98/password-manager-py)
 </details>
 
 # My Github Stats:
+
+<details>
+  <summary>Click here to view all my stats</summary>
 
 <p align="center">
     <a href="" alt="Github Stats">
@@ -121,19 +124,19 @@ pprint(samdev98_info)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-884321%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My Github Data**
 
 > 🏆 432 Contributions in the Year 2021
- > 
-> 📦 268.5 kB Used in Github's Storage 
- > 
+>
+> 📦 268.5 kB Used in Github's Storage
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 8 Public Repositories 
- > 
-> 🔑 7 Private Repositories  
- > 
-**I'm a Night 🦉** 
+>
+> 📜 8 Public Repositories
+>
+> 🔑 7 Private Repositories
+>
+**I'm a Night 🦉**
 
 ```text
 🌞 Morning    10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.9% 
@@ -142,7 +145,8 @@ pprint(samdev98_info)
 🌙 Night      20 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
 Monday       8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
@@ -155,8 +159,7 @@ Sunday       30 commits     █████████░░░░░░░░�
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 💬 Programming Languages: 
@@ -171,5 +174,5 @@ PyCharmCore              7 hrs 49 mins       ███████████�
 
 ```
 
-
 <!--END_SECTION:waka-->
+</details>
