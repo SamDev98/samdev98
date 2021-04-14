@@ -104,6 +104,7 @@ pprint(samdev98_info)
   <summary><strong>Click to view all my projects</strong></summary>
 
 [![Password Manager](https://github-readme-stats.vercel.app/api/pin/?username=samdev98&repo=password-manager-py&show_icons=true&theme=radical)](https://github.com/samdev98/password-manager-py)
+[![Python Bots](https://github-readme-stats.vercel.app/api/pin/?username=samdev98&repo=py_bots&show_icons=true&theme=radical)](https://github.com/SamDev98/py_bots)
 </details>
 
 # My Github Stats:
