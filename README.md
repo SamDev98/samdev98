@@ -57,12 +57,12 @@ Twitter [@samdev98](https://twitter.com/samdev98). 🙂
 
 Languages and Technologies:
 <pre>
-Python      ⬛⬛⬛⬛⬛
-Java        ⬛⬛⬛⬛⬜
-Golang      ⬛⬛⬛⬛⬜
-Javascript  ⬛⬛⬛⬜⬜
-Typescript  ⬛⬛⬛⬜⬜
-C/C++       ⬛⬛⬛⬜⬜
+Python
+Java
+Golang
+Javascript
+Typescript
+C/C++
 </pre>
 
 <details>
@@ -100,7 +100,7 @@ pprint(samdev98_info)
 
 # Projects:
 
-<details>
+<details open>
   <summary><strong>Click to view all my projects</strong></summary>
 
 [![Password Manager](https://github-readme-stats.vercel.app/api/pin/?username=samdev98&repo=password-manager-py&show_icons=true&theme=radical)](https://github.com/samdev98/password-manager-py)
